@@ -2,7 +2,6 @@
 title: Ana Sayfa
 ---
 
-
 ```custom-homepage
 dashboard
 ```
