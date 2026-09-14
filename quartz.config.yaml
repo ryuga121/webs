@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: imüdisnotlari.github.io/quartz
+  baseUrl: ryuga121.github.io/webs
   ignorePatterns:
     - private
     - templates
