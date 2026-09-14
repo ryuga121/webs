@@ -10,3 +10,9 @@ dashboard
 
 ![[Staj Sırası.png|298]]
 
+****
+cd C:\Users\pc\webs
+git add .
+git commit -m "Add files"
+git push origin v5
+****
